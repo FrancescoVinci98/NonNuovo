@@ -1,0 +1,15 @@
+# PyCharm
+.idea/
+.venv/
+
+# VScode
+.vscode/
+
+# MacOS
+.DS_Store
+
+# Windows
+desktop.ini
+
+#modifica a caso
+# aggiunto commento per simulare collega 
